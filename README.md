@@ -10,6 +10,7 @@ Welcome to the **Data Structures and Algorithms in Go** repository! This reposit
 
 - [Introduction](#Introduction.md)
 - [Getting Started](#getting-started)
+- [Basic Go Programs](#basic-go-programs)
 - [Data Structures](#data-structures)
   - [Arrays](#arrays)
   - [Linked Lists](#linked-lists)
@@ -25,9 +26,8 @@ Welcome to the **Data Structures and Algorithms in Go** repository! This reposit
   - [Dynamic Programming](#dynamic-programming)
   - [Backtracking](#backtracking)
 - [LeetCode Problems](#leetcode-problems)
-- [Basic Go Programs](#basic-go-programs)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contributing](#contributing.md)
+- [License](#license.md)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
