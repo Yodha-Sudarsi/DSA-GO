@@ -8,7 +8,7 @@ Welcome to the **Data Structures and Algorithms in Go** repository! This reposit
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#https://github.com/Yodha-Sudarsi/DSA-GO/blob/main/Introduction.md)
 - [Getting Started](#getting-started)
 - [Data Structures](#data-structures)
   - [Arrays](#arrays)
