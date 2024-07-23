@@ -8,7 +8,7 @@ Welcome to the **Data Structures and Algorithms in Go** repository! This reposit
 
 ## Table of Contents
 
-- [Introduction](#Introduction.md)
+- [Introduction](Introduction.md)
 - [Getting Started](#getting-started)
 - [Basic Go Programs](#basic-go-programs)
 - [Data Structures](#data-structures)
